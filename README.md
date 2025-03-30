@@ -29,7 +29,7 @@ El archivo CSV debe contener las siguientes columnas:
 - `Desempeno_global` *(variable objetivo estimada)*
 
 > Puedes usar el archivo de ejemplo:  
->  [proveedores_hibrido_simulado.csv](https://...)
+>  [proveedores_hibrido_simulado.csv]([https://...](https://github.com/CristianZafra/-Evaluacion_Proveedores_RF_NSGA2/blob/20700dcba19fbb74901b71c9b30e6e8411c883a5/proveedores_hibrido_simulado.csv))
 
 ---
 
